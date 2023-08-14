@@ -1,0 +1,54 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.master{
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 2px;
+  padding: 15px;
+  height: auto;
+}
+
+.resultbox{
+    flex-direction: column;
+    min-height: 150px;
+    border: 1px solid red;
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.keyscontainer{
+    flex-direction: row;
+    display: flex;
+    height: auto;
+    border: 1px solid blue;
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.keyscontainer button{
+    height: 30px;
+    width: 30px;
+}
+
+.row1{
+    flex-direction: row;
+}
+
+.row2{
+    flex-direction: row;
+}
+
+.row3{
+    flex-direction: row;
+}
+
+.row4{
+    flex-direction: row;
+} */
